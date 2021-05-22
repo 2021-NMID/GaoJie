@@ -109,3 +109,8 @@ ctrl+shift+1: 显示标题大纲
 // 鼠标右键选择
 ~~~
 
+# Part 2. GitHub Deaktop 使用
+
+**push**：从本地仓库
+
+**pull**：从仓库到本地
